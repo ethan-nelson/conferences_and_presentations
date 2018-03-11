@@ -1,6 +1,8 @@
 Conferences and meetings attended
 =================================
 
+- *UW-Madison* Climate Change Symposium; Madison, WI; February 2018
+- *American Geophysical Union* Fall Meeting; New Orleans, LA; December 2017
 - *Humanitarian OpenStreetMap Team* Summit; Ottawa, ON; September 2017
 - *Gordon Research Conference* on Radiation and Climate; Lewiston, ME; July 2017
 - *Wisconsin Land Information Association* Spring Workshop; Fond du Lac, WI; May 2017
