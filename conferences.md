@@ -1,6 +1,8 @@
 Conferences and meetings attended
 =================================
 
+- *OpenStreetMap US* State of the Map; Detroit, MI; October 2018
+- *NASA* CloudSat/CALIPSO Science Operations Review; Boulder, CO; April 2018
 - *UW-Madison* Climate Change Symposium; Madison, WI; February 2018
 - *American Geophysical Union* Fall Meeting; New Orleans, LA; December 2017
 - *Humanitarian OpenStreetMap Team* Summit; Ottawa, ON; September 2017
