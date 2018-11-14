@@ -1,6 +1,8 @@
 Conferences and meetings attended
 =================================
 
+- *National Academies* Space Studies Board Meeting; Irvine, CA; November 2018
+- *International Clouds Working Group* 2nd Workshop; Madison, WI; October 2018
 - *OpenStreetMap US* State of the Map; Detroit, MI; October 2018
 - *NASA* CloudSat/CALIPSO Science Operations Review; Boulder, CO; April 2018
 - *UW-Madison* Climate Change Symposium; Madison, WI; February 2018
