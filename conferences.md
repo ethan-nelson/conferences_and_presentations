@@ -1,6 +1,7 @@
 Conferences and meetings attended
 =================================
 
+- *American Geophysical Union* Fall Meeting; Washington, DC; December 2018
 - *National Academies* Space Studies Board Meeting; Irvine, CA; November 2018
 - *International Clouds Working Group* 2nd Workshop; Madison, WI; October 2018
 - *OpenStreetMap US* State of the Map; Detroit, MI; October 2018
