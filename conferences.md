@@ -1,6 +1,8 @@
 Conferences and meetings attended
 =================================
 
+- *NASA* Decadal Survey Aerosol-Cloud, Convection, and Precipitation Community Workshop; Pasadena, CA; April 2019
+- *Humanitarian OpenStreetMap Team* Tasking Manager Stakeholders Workshop; Washington, DC; February 2019
 - *American Geophysical Union* Fall Meeting; Washington, DC; December 2018
 - *National Academies* Space Studies Board Meeting; Irvine, CA; November 2018
 - *International Clouds Working Group* 2nd Workshop; Madison, WI; October 2018
