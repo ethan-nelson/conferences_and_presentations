@@ -3,6 +3,7 @@ Presentations given
 
 Title | Year | Type | Slides
 ------|------|------|-------
+_Regime-dependent differences in active satellite rainfall products_ | June 2019 | Poster |
 _A Posse of OSSEs_ | March 2019 | Invited talk |
 _Tools for an online presence in science_ | March 2019 | Invited talk | [Link](https://github.com/ethan-nelson/presentation_slides/blob/master/2019_mar_online_presence/2019wisconline.pdf)
 _Regime-dependent biases in active satellite rainfall products_ | December 2018 | Poster |
