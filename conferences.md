@@ -3,6 +3,7 @@ Conferences and meetings attended
 
 Organization | Meeting | Location | Year 
 -------------|---------|----------|------
+*International Precipitation Conference* | 12th Conference | Irvine, CA | June 2019
 *NASA* | Decadal Survey Aerosol-Cloud, Convection, and Precipitation Community Workshop | Pasadena, CA | April 2019
 *Humanitarian OpenStreetMap Team* | Tasking Manager Stakeholders Workshop | Washington, DC | February 2019
 *American Geophysical Union* | Fall Meeting | Washington, DC | December 2018
