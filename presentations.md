@@ -7,6 +7,7 @@ _Regime-dependent differences in active satellite rainfall products_ | June 2019
 _A Posse of OSSEs_ | March 2019 | Invited talk |
 _Tools for an online presence in science_ | March 2019 | Invited talk | [Link](https://github.com/ethan-nelson/presentation_slides/blob/master/2019_mar_online_presence/2019wisconline.pdf)
 _Regime-dependent biases in active satellite rainfall products_ | December 2018 | Poster |
+_Climate change impact assessments with OpenStreetMap_ | October 2018 | Talk |
 _Oceanic warm rain latent heating from CloudSat_ | April 2018 | Talk |
 _An observation-based assessment of instrument requirements for a future precipitation process observing system_ | December 2017 | Talk |
 _Designing and implementing a computational methods course for upper-level undergraduates and postgraduates in Atmospheric and Oceanic Sciences_ | December 2017 | Talk | [Link](https://github.com/ethan-nelson/presentation_slides/blob/master/2017_dec_computational_methods_course/ENelson_education_AGU_2017.pdf)
